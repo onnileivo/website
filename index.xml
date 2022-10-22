@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Onni</title>
+        <link>http://example.org/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>onni@testausserveri.fi (Onni Leivo)</managingEditor>
+            <webMaster>onni@testausserveri.fi (Onni Leivo)</webMaster><lastBuildDate>Sat, 22 Oct 2022 18:02:42 &#43;0300</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Introduction</title>
+    <link>http://example.org/posts/introduction/</link>
+    <pubDate>Sat, 22 Oct 2022 18:02:42 &#43;0300</pubDate>
+    <author>Onni Leivo</author>
+    <guid>http://example.org/posts/introduction/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

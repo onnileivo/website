@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Onni</title>
+        <link>http://example.org/categories/</link>
+        <description>Categories - Category - Onni</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>onni@testausserveri.fi (Onni Leivo)</managingEditor>
+            <webMaster>onni@testausserveri.fi (Onni Leivo)</webMaster><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>
